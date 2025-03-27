@@ -1,0 +1,22 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newrelic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshitabaisla001/mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshitabaisla001/mongo/issues"
+  },
+  "homepage": "https://github.com/akshitabaisla001/mongo#readme",
+  "dependencies": {
+    "mongoose": "^8.13.0"
+  }
+}
